@@ -1,0 +1,8 @@
+{
+  "name": "AI 윤리 딜레마 진단",
+  "description": "3분 만에 즐기는 강렬한 AI 윤리 딜레마 체험 웹 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
